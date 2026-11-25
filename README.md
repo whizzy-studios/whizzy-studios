@@ -1,16 +1,13 @@
-## Hi there 👋
+# Whizzy Studios
 
-<!--
-**whizzy-studios/whizzy-studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Whizzy Studios is an early-stage project building AI-assisted tooling for an animated YouTube channel.
 
-Here are some ideas to get you started:
+## Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Early development. The main codebases are private while the projects take shape. This repository is the public home of the project: docs, demos and open components will land here as they become ready.
+
+## Roadmap
+
+- Design the animation pipeline architecture
+- Build and test the core tooling
+- Grow the projects into SaaS products
